@@ -1,0 +1,10 @@
+{
+  "name": "tsup-experimental-dts-namespace-bug",
+  "version": "0.0.1",
+  "type": "module",
+  "devDependencies": {
+    "@microsoft/api-extractor": "^7.47.0",
+    "tsup": "^8.1.0",
+    "typescript": "^5.5.3"
+  }
+}

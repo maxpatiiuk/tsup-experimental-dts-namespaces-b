@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "declaration": true,
+    "esModuleInterop": true,
+    "lib": ["ESNext"],
+    "target": "ES2022",
+    "skipLibCheck": true,
+    "newLine": "LF"
+  },
+  "include": ["index.ts"]
+}
